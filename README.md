@@ -4,4 +4,4 @@
 - CSS
 - JavaScript
 ## Demonstração do Projeto
-Github Pages: [Clique aqui](https://ramonroque.github.io/maratona-explorer/)
+Github Pages: [Clique aqui](https://ramonpietro.github.io/maratona-explorer/)
